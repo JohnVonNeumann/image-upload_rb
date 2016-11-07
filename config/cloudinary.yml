@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dowxlvcdu
+  api_key: '619782232253751'
+  api_secret: p_qhLldIXbP0RKqUpyWOKCjgT78
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: dowxlvcdu
+  api_key: '619782232253751'
+  api_secret: p_qhLldIXbP0RKqUpyWOKCjgT78
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: dowxlvcdu
+  api_key: '619782232253751'
+  api_secret: p_qhLldIXbP0RKqUpyWOKCjgT78
+  enhance_image_tag: true
+  static_image_support: false
